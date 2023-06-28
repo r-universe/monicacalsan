@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MetaboQC"]
 	path = MetaboQC
 	url = https://github.com/cran/MetaboQC
-	shallow = true
-	registered = true
 [submodule "MScombine"]
 	path = MScombine
 	url = https://github.com/cran/MScombine
-	shallow = true
-	registered = true
